@@ -32,7 +32,8 @@ body {
     background-image: url(/img/seawaves.jpg);
     
     /* Set a specific height */
-    height: 100vh;
+    min-height: 500px;
+    min-width: 600px;
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
